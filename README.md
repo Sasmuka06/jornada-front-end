@@ -1,16 +1,16 @@
 # jornada-front-end
 Repositório voltado para o estudo em front-end
 
-## Tecnologias
+# Tecnologias
 
 - HTML
 - CSS
 - JavaScript (futuramente)
 
-## Objetivo
+# Objetivo
 
 Praticar, criar projetos e acompanhar minha evolução como desenvolvedor.
 
-## Projetos
+# Projetos
 
 Em desenvolvimento 🚀
